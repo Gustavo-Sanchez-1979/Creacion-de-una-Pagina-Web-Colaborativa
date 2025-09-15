@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #fa3f26;
+    background-color: #9fb7eb;
     color: #0c0b02;
     text-align: center;
 }
@@ -15,7 +15,7 @@ body{
     padding: 20px;
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: #5a5cf1;
+    background-color: #454699;
     border-radius: 8px;
 }
 .contenedor{
@@ -34,7 +34,7 @@ h1{
     color: rgb(237, 237, 230);
     font-weight: bold;
     font-size: 2.5rem;
-    color: #f6f5f166;
+    color:yellow;
 }
 p .hola{
     font-size: 18px;
@@ -46,7 +46,7 @@ footer{
     padding: 10px 0;
     border-top: 1px solid #786ff5;
     font-size: 24px;
-    color: #f2f2eb;
+    color: black;
     text-align: center;
 }
 .footer a{
